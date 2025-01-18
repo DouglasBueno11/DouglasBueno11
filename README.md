@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Douglas Willian Bueno Sobrinho, tenho 16 anos sou natural de Itapeva-SP. Estou cursando o segundo ano de Desenvolvimento de Sistemas no SENAI e terceiro ano do ensino médio no SESI. Sou apaixonado por tecnologia, empreendedorismo e inteligência artificial. Tenho como objetivo aplicar meu conhecimento para criar soluções inovadoras e automações. Estou em constante aprendizado e compartilho meu progresso e insights em projetos relacionados a sistemas e outras áreas aqui e no meu instagram [douglasbuenows](https://www.instagram.com/douglasbuenows/).
+Me chamo Douglas Willian Bueno Sobrinho, tenho 16 anos sou natural de Itapeva-SP. Estou cursando o segundo ano de Desenvolvimento de Sistemas no SENAI e terceiro ano do ensino médio no SESI. Sou apaixonado por tecnologia, empreendedorismo e inteligência artificial. Tenho como objetivo aplicar meu conhecimento para criar soluções inovadoras e automações. Estou em constante aprendizado e compartilho meu progresso e insights em projetos relacionados a sistemas e outras áreas.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/douglas-bueno-252301305/">
