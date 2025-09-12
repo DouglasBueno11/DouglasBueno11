@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Douglas Willian, tenho 16 anos sou de Itapeva-SP. Estou cursando o segundo ano de Desenvolvimento de Sistemas no SENAI e terceiro ano do ensino médio no SESI. Sou apaixonado por tecnologia, empreendedorismo e inteligência artificial. Meu objetivo é aplicar meu conhecimento para criar soluções inovadoras e automações. Estou em constante aprendizado e compartilho meu progresso e insights em projetos relacionados a sistemas e outras áreas.
+Me chamo Douglas Willian, tenho 17 anos sou de Itapeva-SP. Estou cursando o segundo ano de Desenvolvimento de Sistemas no SENAI e terceiro ano do ensino médio no SESI. Sou apaixonado por tecnologia, empreendedorismo e inteligência artificial. Meu objetivo é aplicar meu conhecimento para criar soluções inovadoras. Estou em constante aprendizado e compartilho meu progresso e insights em projetos relacionados a sistemas e outras áreas.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/douglas-willian-bueno-252301305">
